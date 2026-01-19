@@ -22,10 +22,10 @@
   "dependencies": {
     "bignumber.js": "9.0.0",
     "eth-saddle": "^0.1.21",
-    "ethers": "^5.0.8",
+    "ethers": "^6.0.0",
     "immutable": "^4.0.0-rc.12",
     "truffle-flattener": "^1.4.4",
-    "web3": "^1.2.11"
+    "web3": "^4.0.1"
   },
   "resolutions": {
     "scrypt.js": "https://registry.npmjs.org/@compound-finance/ethereumjs-wallet/-/ethereumjs-wallet-0.6.3.tgz",
